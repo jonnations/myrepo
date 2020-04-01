@@ -10,3 +10,13 @@ testing out some code here
 print("Hello World")
 ```
 
+Adding a second line since the first commit
+```{r}
+library("tidyverse")
+```
+
+now tidy is loaded
+```{r}
+print("nopw tidy is loaded")
+```
+
