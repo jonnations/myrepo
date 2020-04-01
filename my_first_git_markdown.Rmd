@@ -1,0 +1,12 @@
+---
+title: "my first git markdown"
+author: "Jon Nations"
+date: "3/31/2020"
+output: html_document
+---
+testing out some code here
+
+```{r}
+print("Hello World")
+```
+
